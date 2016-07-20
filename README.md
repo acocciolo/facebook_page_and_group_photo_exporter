@@ -1,5 +1,5 @@
 # Facebook Page and Group Photo Exporter
-Tool that exports the photo metadata for a Facebook page or group to a CSV file.  
+Tool that exports the photo metadata within a Facebook page or group to a CSV file.  
 
 Also creates scripts for Windows or Mac/Linux that will download Facebook photos
 from a group or page using the program WGet.
