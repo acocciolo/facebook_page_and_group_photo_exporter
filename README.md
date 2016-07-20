@@ -7,4 +7,6 @@ from a group or page using the program WGet.
 Requires PHP 5+.  Requires that you register a Developer account with Facebook and
 establish an App ID.  The App ID can be added to the lib.php file.
 
+You can start using the tool by copying and the files to the web directory http://your_local_server/photo_exporter
+
 Note that this project is not affiliated with Facebook Inc.
