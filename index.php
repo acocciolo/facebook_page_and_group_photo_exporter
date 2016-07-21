@@ -101,7 +101,13 @@ require_once("header.php");
       <div class="one-half column" style="margin-top: 18%">
 <h1>Page and Group Photo Exporter</h1>
 
-<fb:login-button scope="public_profile,user_likes,user_managed_groups" onlogin="checkLoginState();">
+<p>This tool exports the photos for a Facebook group that you manage or page you like as a CSV file, and provides you
+a script for downloading the files.</p>
+
+<p>Created by <a href="http://www.thinkingprojects.org">Anthony Cocciolo</a>
+</p>
+
+<fb:login-button scope="public_profile,user_likes,user_managed_groups,email" onlogin="checkLoginState();">
 </fb:login-button>
 
 <div id="status">

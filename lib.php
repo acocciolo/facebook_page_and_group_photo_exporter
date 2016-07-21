@@ -1,6 +1,6 @@
 <?php
 
-$app_id = "<INSERT APP ID HERE>";
+$app_id = "{INSERT APP ID}";
 $base_url = "https://graph.facebook.com/v2.7/";
 
 

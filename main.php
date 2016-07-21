@@ -82,7 +82,7 @@ require_once("token.php");
         
  
         <br><br>
-        Clicking "go" will initaite the export.  It may take several minutes for the export to complete.<br />
+        Clicking "GO" will initaite the export.<br />
         <input type="submit" value="Go">
         </form>
         </p>

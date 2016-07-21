@@ -33,15 +33,16 @@ $file = $_GET["file"];
       and Select System Settings or Properties.  Select an option for "Avanced System Settings."  Select the "Environment Variables" option.  In the System Variable "Path", append the WGet path, such as:
       
       <code>c:\windows\system32\;c:\gnuwin32\bin</code> 
+      
+        <li>Double click the .bat file.  If you receive error messages, that means that it probably can't find WGet, and something did not go correct when adding it to the path variables.  If you open the command-prompt (Start -> Run -> cmd), and type in wget and you get an error, then WGet is not installed or not registered in the system paths.  Try again the earlier step.  
+
        
-      <li>That's it!  When it is done download, you will have a copy of your photos with the metadata CSV file.
+      <li>That's it!  When the batch file is complete, you will have a copy of your photos with the metadata CSV file.
 
     
        
-   <li>Double click the .bat file.  If you receive error messages, that means that it probably can't find WGet, and something did not go correct when adding it to the path variables.
        </ol>
        
-       <a href="javascript:history.go(-1);">Back</a>
        
           </p>
 </div>

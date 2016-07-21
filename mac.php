@@ -43,7 +43,6 @@ $file = $_GET["file"];
 
        </ol>
        
-       <a href="javascript:history.go(-1);">Back</a>
        
           </p>
 </div>
