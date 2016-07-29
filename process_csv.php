@@ -217,6 +217,6 @@ $msg .= "\n\nIf you are using a Windows machine, this page will instruct you on 
 $msg .= "\n\nIf you are using a Mac, this page will instruct you on how to download your photos: http://$host/photo_exporter/mac.php?file=$sh_file";
 $msg .= "\n\nThanks for using this tool!";
 
-$headers = 'From: photoexporter@thinkingprojects.org\r\n';
+$headers = 'From: photoexporter@thinkingprojects.org';
 mail($email, "Photo export complete", $msg, $headers);
 ?>
