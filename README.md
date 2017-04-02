@@ -2,6 +2,9 @@
 Tool that exports the photo metadata within a Facebook page or group to a CSV file.  
 Can be used for maintaining local archives of this content.
 
+While you don't have to be an administrator of a Page to export the photos, you
+do need to be a Group administrator to export its photos.
+
 Live version of the tool is available at http://www.thinkingprojects.org/photo_exporter/
 
 Also creates scripts for Windows or Mac/Linux that will download Facebook photos
